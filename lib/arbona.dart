@@ -273,3 +273,6 @@ class Resp {
       Conditions("NonAllergicRhinitis");
   static const Conditions smokeAllergy = Conditions("SmokeAllergy");
 }
+
+// By Septerional in:
+// https://github.com/septerional/arbona.
